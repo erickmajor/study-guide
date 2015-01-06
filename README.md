@@ -10,3 +10,8 @@ Javascript
 NoSQL
 =====
 - MongoDB
+
+
+Assistir
+========
+- http://canal.abbott.com/
