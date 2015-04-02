@@ -20,7 +20,7 @@ Assistir
 
 Livros
 ======
-- http://www.saraiva.com.br/poder-sem-limites-2866806.html
+- ~~[Poder Sem Limites](http://www.saraiva.com.br/poder-sem-limites-2866806.html)~~
 - http://www.saraiva.com.br/walt-disney-o-triunfo-da-imaginacao-americana-2637998.html
 - http://www.saraiva.com.br/o-jeito-disney-de-encantar-os-clientes-3454098.html
 - http://www.sonolife.com.br/upload/O%20Maior%20Vendedor%20do%20Mundo%20-%20Og%20Mandino.pdf
