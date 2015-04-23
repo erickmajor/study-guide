@@ -27,3 +27,8 @@ Livros
 - http://www.buscape.com.br/maua-empresario-do-imperio-caldeira-jorge-8571644365.html#precos
 - http://www.saraiva.com.br/o-segredo-de-luisa-2078616.html
 - http://www.saraiva.com.br/gerenciamento-da-rotina-do-trabalho-do-dia-a-dia-9-ed-2014-6080613.html
+
+
+Traduzir
+========
+https://facebook.github.io/flux/docs/todo-list.html#content
