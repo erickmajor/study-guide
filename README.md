@@ -1,22 +1,10 @@
-Javascript
-==========
-- Ver os tópicos do post no blog do Suissa http://nomadev.com.br/estou-iniciando-em-javascript-por-onde-come%C3%A7o/
-- Ler o livro be MEAN https://github.com/ericdouglas/be-MEAN-resources
-- ES6
-- Funcional
-- ReactJS
-- Framework API JS http://loopback.io/
-
-
-NoSQL
-=====
-- MongoDB
-
-
-Assistir
-========
-- http://canal.abbott.com/
-
+Ingles
+======
+https://www.engvid.com/
+http://www.grammar.cl/
+http://www.elllo.org/english/beginner/B01-JohnSarah-PresentSimple-Routine.htm
+http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx
+http://freerice.com/
 
 Livros
 ======
