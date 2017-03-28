@@ -1,10 +1,13 @@
 Ingles
 ======
-https://www.engvid.com/
-http://www.grammar.cl/
-http://www.elllo.org/english/beginner/B01-JohnSarah-PresentSimple-Routine.htm
-http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx
-http://freerice.com/
+- https://www.engvid.com/
+- http://www.grammar.cl/
+- http://www.elllo.org/english/beginner/B01-JohnSarah-PresentSimple-Routine.htm
+- http://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx
+- http://freerice.com/
+- http://www.englishpage.com/irregularverbs/irregularverbs.html#c
+- http://www.tolearnenglish.com/cgi2/myexam/voir2r.php?id=87374
+- http://www.agendaweb.org/exercises/verbs/present-all
 
 Livros
 ======
