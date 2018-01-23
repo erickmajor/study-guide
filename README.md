@@ -30,6 +30,6 @@ Livros
 
 Traduzir
 ========
-https://facebook.github.io/flux/docs/todo-list.html#content
+~~https://facebook.github.io/flux/docs/todo-list.html#content
 
-https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=aijx5hmcstryevhvwsim
+~~https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf?__s=aijx5hmcstryevhvwsim
