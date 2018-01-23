@@ -19,6 +19,13 @@ Livros
 - http://www.saraiva.com.br/o-segredo-de-luisa-2078616.html
 - http://www.saraiva.com.br/gerenciamento-da-rotina-do-trabalho-do-dia-a-dia-9-ed-2014-6080613.html
 - [Sonhe Grande] (http://www.saraiva.com.br/sonho-grande-4863484.html)
+- https://www.smashingmagazine.com/printed-books/
+- https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+- https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+- https://www.amazon.com/gp/product/1430219483/
+- http://eloquentjavascript.net/
+- https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X
+
 
 
 Traduzir
